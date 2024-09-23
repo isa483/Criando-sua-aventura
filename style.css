@@ -1,0 +1,33 @@
+body {
+    background-color: #170a62;
+    color: white;
+    font-family: "Bungee", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #a71215;
+    color: white;
+    font-family: "Bungee", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width: width 60%;
+}
+
+img {
+    max-width: 60%;
+}
